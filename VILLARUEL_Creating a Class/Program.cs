@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VILLARUEL_Creating_a_Class
+namespace VILLARUEL_John123
 {
    public class person
     {
@@ -74,3 +74,4 @@ namespace VILLARUEL_Creating_a_Class
         }
     }
 }
+
