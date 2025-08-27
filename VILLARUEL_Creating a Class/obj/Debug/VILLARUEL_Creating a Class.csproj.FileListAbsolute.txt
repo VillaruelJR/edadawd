@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\bin\Debug\VILLARUEL_Creating a Class.exe.config
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\bin\Debug\VILLARUEL_Creating a Class.exe
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\bin\Debug\VILLARUEL_Creating a Class.pdb
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\obj\Debug\VILLARUEL_Creating a Class.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\obj\Debug\VILLARUEL_Creating a Class.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\obj\Debug\VILLARUEL_Creating a Class.exe
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\obj\Debug\VILLARUEL_Creating a Class.pdb
+C:\Users\ACT-STUDENT\Desktop\VILLARUEL_Creating a Class\obj\Debug\VILLARUEL_Creating a Class.exe.config
